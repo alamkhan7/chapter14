@@ -1,3 +1,7 @@
 This is master branch
 This is b1 branch
+<<<<<<< HEAD
 new commit to master branch
+=======
+this is branch 2
+>>>>>>> b2
